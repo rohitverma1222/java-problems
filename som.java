@@ -5,10 +5,7 @@
     import java.util.StringTokenizer;
     import java.lang.Math;
     import java.util.*;
-    //goal-10l codeforces (expert) 
-    //15-20l chor 
-    //germany,uk=europe
-     
+  //BUBBle sort using recursion
     public class som {
     	static class FastReader {
     		BufferedReader br;
